@@ -9,5 +9,7 @@ public class largest {
             System.out.println(n3 + " is the largest number .");
 
     }
-    //
+    //git add .
+    //git commit -m"update"
+    //git push origin master
 }
